@@ -1,4 +1,5 @@
-## Hi there 👋
+## Welcome to Cindy's GitHub Profile 👋
+
 
 <!--
 **cindyweng18/cindyweng18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
