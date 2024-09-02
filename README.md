@@ -1,13 +1,13 @@
 ## Welcome to Cindy's GitHub Profile 👋
 
-![MasterHead](https://raw.githubusercontent.com/cindyweng18/cindyweng18/main/header.png)
+![MasterHead](https://github.com/rishavanand/github-profilinator/blob/master/src/images/greetings.gif)
 
 ---
 <img align="left" alt="girl-coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJobTZvMGdzYW9yZ3p5NXFuaXphZTFzeGpuaGlsN2FvdHBrZHFrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.webp">
 
 <h3 align="left">About Me</h3>
 <p align="left">
-  I'm passionate about using technology to solve real-world problems. With a degree in Computer Science, I specialize in web development, data science, machine learning, and software engineering. I love tackling complex challenges and finding innovative solutions. When I'm not coding, I enjoy going to the gym :weight_lifting_woman:, watching shows :tv:, playing games :video_game:, and exploring new places and foods :fork_and_knife: around the world :airplane:.
+  Hi! 👋 I'm Cindy! I'm passionate about using technology to solve real-world problems. With a degree in Computer Science, I specialize in web development, data science, machine learning, and software engineering. I love tackling complex challenges and finding innovative solutions. When I'm not coding, I enjoy going to the gym :weight_lifting_woman:, watching shows :tv:, playing games :video_game:, and exploring new places and foods :fork_and_knife: around the world :airplane:.
 </p>
 
 <h3 align="left">Languages & Tools</h3>
