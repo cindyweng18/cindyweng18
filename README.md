@@ -1,5 +1,9 @@
 ## Welcome to Cindy's GitHub Profile 👋
 
+![MasterHead](https://raw.githubusercontent.com/cindyweng18/cindyweng18/main/header.png)
+
+---
+<img align="center" alt="girl-coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJobTZvMGdzYW9yZ3p5NXFuaXphZTFzeGpuaGlsN2FvdHBrZHFrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.webp">
 
 <!--
 **cindyweng18/cindyweng18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
